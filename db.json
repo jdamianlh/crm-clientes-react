@@ -1,0 +1,36 @@
+{
+  "clientes": [
+    {
+      "nombre": "Jawi",
+      "empresa": "el buho",
+      "email": "damian@damian.com",
+      "telefono": "9831050665",
+      "notas": "Quiere comprar tela",
+      "id": 1
+    },
+    {
+      "nombre": "Karen",
+      "empresa": "Diseños karen",
+      "email": "karen@karen.com",
+      "telefono": "9831234567",
+      "notas": "Quiere comprar toner",
+      "id": 2
+    },
+    {
+      "nombre": "Paula",
+      "empresa": "palunia construcciones",
+      "email": "correo@correo.com",
+      "telefono": "9831212345678",
+      "notas": "",
+      "id": 3
+    },
+    {
+      "nombre": "Carlos",
+      "empresa": "climas carlos",
+      "email": "correo@correo.com",
+      "telefono": "98398765432",
+      "notas": "Compra gas",
+      "id": 4
+    }
+  ]
+}
